@@ -1,0 +1,774 @@
+[
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_chat.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_blog_view.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_blog_view.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_rounded_rectangle.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/rounded_rectangle.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_create_account.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_create_account.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_send.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_mail.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_nav_header_dashboard.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/nav_header_dashboard.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_chat_broadcast.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_chat_broadcast.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_app_logo_foreground.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxhdpi/ic_app_logo_foreground.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_app_logo_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-hdpi/ic_app_logo_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_other_details.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_other_details.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_bottom_nav_chat.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/bottom_nav_chat.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_logo6.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_logo6.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_photo_id.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_photo_id.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_add.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_inactive.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_inactive.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_circle_done.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_circle_done.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_splash_screen.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_app_logo_round.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-anydpi-v26/ic_app_logo_round.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_broadcast_call_preview.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_broadcast_call_preview.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_app_update.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_app_update.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_transaction.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_transaction.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_terms_of_use.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_terms_of_use.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/anim_zoom_in.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_language.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_language.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_tick.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_tick.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_app_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xhdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_app_logo_foreground.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-mdpi/ic_app_logo_foreground.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/navigation_mobile_navigation.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_app_bar_dashboard.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/app_bar_dashboard.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_logo_white.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_logo_white.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_broadcast.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_broadcast.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_awards.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_awards.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_app_logo_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-mdpi/ic_app_logo_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_app_logo_foreground.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xhdpi/ic_app_logo_foreground.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_star.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_face_verification.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_face_verification.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_chat_bg.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/chat_bg.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_rate.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_rate.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_edit_dark.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_edit_dark.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_menu_camera.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_custom_action_bar.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/custom_action_bar.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_delete.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_privacy_policy.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_privacy_policy.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_chevron_left.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_bank_details.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_bank_details.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_chevron_right.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_app_logo_background.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_app_logo_background.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_app_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxhdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_bg_splashscreen1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/bg_splashscreen1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_bottom_nav_profile.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/bottom_nav_profile.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_new_blog.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_new_blog.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_id_not_verified.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_id_not_verified.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_chat_inactive.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_chat_inactive.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_personal_info.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_personal_info.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_bottom_nav_blog.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/bottom_nav_blog.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_add_circle.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_clients.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_clients.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_circle.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_specialisation.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_specialisation.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_create_account1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_create_account1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_launch_drawable.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/launch_drawable.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_wallet.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_wallet.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_curved_progress_bar.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/curved_progress_bar.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_info.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_india_flag.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_india_flag.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/anim_fade_out.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_circle_active.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_circle_active.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_nav_bg.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/nav_bg.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_app_logo_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxhdpi/ic_app_logo_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_dotted.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/dotted.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_review_list_item.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_review_list_item.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_app_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-hdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_address_proof.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_address_proof.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_share.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_done.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_done.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_dashboard.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/dashboard.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_doc_under_verification.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_doc_under_verification.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_launch_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_launch_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_app_logo.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-anydpi-v26/ic_app_logo.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_card1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_card1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_edit.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_edit.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_broadcast.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_broadcast.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_clear_black.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_clear_black.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_content_dashboard.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/content_dashboard.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_address.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_address.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_gradient_bg.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_awards_and_certificate.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_awards_and_certificate.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_slideshow.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_new_broadcast_call.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_new_broadcast_call.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_dashboard.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_wallet.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_language_picker.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_language_picker.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_arrow_back.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_identity_verification.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_identity_verification.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_round_edittext.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/round_edittext.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_withdraw1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_withdraw1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_app_logo_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xhdpi/ic_app_logo_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_clear_white.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_clear_white.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_card.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_card.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_btn_round.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/btn_round.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_page.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_page.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_gallery.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_content_wallet.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/content_wallet.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_main.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_bg_splashscreen.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/bg_splashscreen.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_blog.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_blog.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_withdraw2.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_withdraw2.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_doc_verified.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_doc_verified.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_scroll_down.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_scroll_down.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_chat_subscriber.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_chat_subscriber.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_menu_wallet.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/menu_wallet.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_chat.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_chat.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_app_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxxhdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_other_details.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_other_details.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_logo1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_logo1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_side_nav_bar.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/xml_file_provider.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/xml/file_provider.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_page_inactive.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_page_inactive.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_error.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_error.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_image_picker.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_image_picker.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_profile_details.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_profile_details.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_menu_gallery.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_otp_code1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_otp_code1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_options.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_options.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_round_msg1.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/round_msg1.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_withdraw.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_withdraw.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_profile_image.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_profile_image.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_app_logo_foreground.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxxhdpi/ic_app_logo_foreground.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_id_card.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_id_card.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_home.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_chat.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_sign_up.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_activity_dashboard_drawer.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/activity_dashboard_drawer.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_rupee.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_rupee.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_add_a_photo_black_24dp.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_add_a_photo_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_broadcast_call_item.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_broadcast_call_item.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_app_logo_foreground.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-hdpi/ic_app_logo_foreground.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_add_circle_outline.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_add_circle_outline.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_bank_details.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_bank_details.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_work_experience1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_work_experience1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_primary_specialisation.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_primary_specialisation.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_profile.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_profile.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_sign_in.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_sign_in.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_app_logo_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxxhdpi/ic_app_logo_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/menu_menu_edit_delete.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/menu/menu_edit_delete.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_about_me.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_about_me.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_error_black_24dp.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_error_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_activity_sign_in.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_blog_list_item.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_blog_list_item.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_reset.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_reset.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_outline_circle.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_outline_circle.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_chat1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_chat1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_profile_inactive.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_profile_inactive.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_blog_count.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_blog_count.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_personal_info.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_personal_info.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_specialisation.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_specialisation.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_cancel.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_custom_message_area.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/custom_message_area.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_work_experience.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_work_experience.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_round_msg2.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/round_msg2.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_faq.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_faq.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_faq_item.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_faq_item.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_dialog_terms_and_condition.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/dialog_terms_and_condition.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_doc_not_uploaded.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_doc_not_uploaded.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_fragment_profile.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_chat_bg1.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/chat_bg1.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_menu.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/drawable-v24_ic_otp_code.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/drawable-v24/ic_otp_code.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_app_logo.png.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/mipmap-mdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/build/intermediates/res/merged/release/layout_layout_msg.xml.flat",
+        "source": "/home/paresh/AndroidStudioProjects/CykkaPartnerApp/app/src/main/res/layout/layout_msg.xml"
+    }
+]
